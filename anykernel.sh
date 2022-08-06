@@ -27,7 +27,7 @@ patch_vbmeta_flag=auto;
 . tools/ak3-core.sh;
 
 ## AnyKernel install
-split_boot;
-flash_boot;
-flash_dtbo;
+dump_boot
+. $bin/kyriepatch.sh
+write_boot
 ## end install
