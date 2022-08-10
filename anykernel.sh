@@ -28,6 +28,5 @@ patch_vbmeta_flag=auto;
 
 ## AnyKernel install
 dump_boot
-. $bin/kyriepatch.sh
 write_boot
 ## end install
