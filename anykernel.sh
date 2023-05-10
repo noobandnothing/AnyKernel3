@@ -21,7 +21,6 @@ is_slot_device=0;
 ramdisk_compression=auto;
 patch_vbmeta_flag=auto;
 
-
 ## AnyKernel methods (DO NOT CHANGE)
 # import patching functions/variables - see for reference
 . tools/ak3-core.sh;
