@@ -4,8 +4,8 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=SiLonT Kernel
-maintainer.string1=by azrim @Hiitagiii
+kernel.string=Pharoh Kernel
+maintainer.string1=by @sadyqowl1560
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
